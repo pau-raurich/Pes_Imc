@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PesImc</string>
+    <string name="et_kg">Enter Kg</string>
+    <string name="tv_kg">Weight in Kg::</string>
+    <string name="tv_exemple_kg">(exemple: 69)</string>
+    <string name="et_height">Enter height</string>
+    <string name="tv_height">Height in meters:</string>
+    <string name="tv_exemple_height">(exemple: 1.69)</string>
+    <string name="btn_calculate">CALCULATE BMI</string>
+    <string name="btn_menu">GO TO MENU</string>
+    <string name="tv_result_BMI">"Your BMI: "</string>
+    <string name="tv_result_group">"Your group: "</string>
+    <string name="group_0">Insufficient weight</string>
+    <string name="group_1">Normal weight</string>
+    <string name="group_2">Overweight I</string>
+    <string name="group_3">Overweight II (pre-obesity)</string>
+    <string name="group_4">Type I obesity</string>
+    <string name="group_5">Type II obesity</string>
+    <string name="group_6">Type III obesity (morbidity)</string>
+    <string name="group_7">Type IV obesity (extreme)</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PesImc</string>
+    <string name="et_kg">Entra els Kg</string>
+    <string name="tv_kg">Pes en Kg:</string>
+    <string name="tv_exemple_kg">(exemple: 69)</string>
+    <string name="et_height">Entra l\'alçada</string>
+    <string name="tv_height">Alçada en metres:</string>
+    <string name="tv_exemple_height">(exemple: 1.69)</string>
+    <string name="btn_calculate">CALCULAR IMC</string>
+    <string name="btn_menu">ANAR A MENÚ</string>
+    <string name="tv_result_BMI">"El teu IMC: "</string>
+    <string name="tv_result_group">"El teu grup és: "</string>
+    <string name="group_0">Pes insuficient</string>
+    <string name="group_1">Pes normal</string>
+    <string name="group_2">Sobrepès grau I</string>
+    <string name="group_3">Sobrepes grau II (preobesitat)</string>
+    <string name="group_4">Obesistat de tipus I</string>
+    <string name="group_5">Obesistat de tipus II</string>
+    <string name="group_6">Obesistat de tipus III (mòrbida)</string>
+    <string name="group_7">Obesistat de tipus IV (extrema)</string>
+</resources>
